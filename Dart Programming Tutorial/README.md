@@ -43,3 +43,8 @@
 42. Map & hashMap
 43. Callable classes 
 44. Summary 
+
+
+## Quick Tips
+1. Adding a space / line-break
+print(""); 
