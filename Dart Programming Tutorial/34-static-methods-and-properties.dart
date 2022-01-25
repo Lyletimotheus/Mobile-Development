@@ -2,9 +2,8 @@
 // 1. Static Methods and Variables
 // We can't access a staic property by creating an instance of the Class Object
 // A static property or method only consumes memory only once
-// * Static variables are also known as Class Variables 
+// * Static variables are also known as Class Variables
 // * Static Methods are also known as Class Methods
-
 
 void main() {
   // Accessing a Static Property
